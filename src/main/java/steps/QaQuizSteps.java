@@ -14,8 +14,8 @@ import static org.hamcrest.Matchers.*;
 
 public class QaQuizSteps {
 
-    private final String host = "https://qa-quiz.natera.com";
-    private final String token = "ca7796bc-b15e-4e58-b733-a25a6da229e5";
+    private final String host = ""; // set host
+    private final String token = ""; // set token
 
     private Response response;
 
